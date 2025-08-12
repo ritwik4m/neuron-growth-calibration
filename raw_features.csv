@@ -1,0 +1,2 @@
+file_name,dendrites_only,total_length_um,num_segments,mean_segment_length_um,std_segment_length_um,n_bifurcations,n_tips,max_tree_depth,sholl_peak,sholl_peak_radius_um,sholl_auc,max_radial_extent_um,bif_per_100um,tips_per_100um
+2964_B_3-2-B.CNG.swc,1,1843.4674631479243,670,2.751443974847648,1.8781388361254245,30,34,7,22,40.0,135,152.4919035746574,1.627368022474977,1.8443504254716405
